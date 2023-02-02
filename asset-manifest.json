@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tailwind-prac/static/css/main.70ad2fee.css",
-    "main.js": "/tailwind-prac/static/js/main.3c2a7b1c.js",
-    "static/js/787.9229db0a.chunk.js": "/tailwind-prac/static/js/787.9229db0a.chunk.js",
-    "index.html": "/tailwind-prac/index.html",
-    "main.70ad2fee.css.map": "/tailwind-prac/static/css/main.70ad2fee.css.map",
-    "main.3c2a7b1c.js.map": "/tailwind-prac/static/js/main.3c2a7b1c.js.map",
-    "787.9229db0a.chunk.js.map": "/tailwind-prac/static/js/787.9229db0a.chunk.js.map"
+    "main.css": "/merzainc/tailwind-prac/static/css/main.70ad2fee.css",
+    "main.js": "/merzainc/tailwind-prac/static/js/main.d4bb9172.js",
+    "static/js/787.9229db0a.chunk.js": "/merzainc/tailwind-prac/static/js/787.9229db0a.chunk.js",
+    "index.html": "/merzainc/tailwind-prac/index.html",
+    "main.70ad2fee.css.map": "/merzainc/tailwind-prac/static/css/main.70ad2fee.css.map",
+    "main.d4bb9172.js.map": "/merzainc/tailwind-prac/static/js/main.d4bb9172.js.map",
+    "787.9229db0a.chunk.js.map": "/merzainc/tailwind-prac/static/js/787.9229db0a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.70ad2fee.css",
-    "static/js/main.3c2a7b1c.js"
+    "static/js/main.d4bb9172.js"
   ]
 }
